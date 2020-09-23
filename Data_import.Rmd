@@ -34,3 +34,7 @@ tail(litters_df)
 skimr::skim(litters_df)
 ```
 
+##Options to read csv
+
+check out '?read_csv' for more info. 
+
